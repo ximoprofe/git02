@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//comentario 
+//que bien comentario 
 int random_int(int max)
 {
   return rand() % max;
